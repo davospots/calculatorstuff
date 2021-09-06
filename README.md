@@ -8,7 +8,7 @@
 4. [Copyright](#copyright)
 ****
 ### 1.General info
-This project involed taking a picture and emulating it's styles and format as a website from scratch
+This project is all about making a calculator.It will include choosing which operators to input as well from addition to dividing.
 ****
 ### 2.Technologies
 This website used html and css languages to make it.everything was done from scratch.
